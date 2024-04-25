@@ -5,6 +5,8 @@ OsloMet brukernavn:s375053
 
 GitHub brukernavn: praneeth0507
 
+Github link: https://github.com/praneeth0507/oblig3-data1700-praneeth
+
 Fullt navn: Praneeth Vijayasanker
 
 Kort beskrivelse av applikasjon (5–10 setninger):
