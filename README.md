@@ -7,6 +7,8 @@ GitHub brukernavn: praneeth0507
 
 Github link: https://github.com/praneeth0507/oblig3-data1700-praneeth
 
+Youtube video URL: https://youtu.be/BZPEVrH5ggM
+
 Fullt navn: Praneeth Vijayasanker
 
 Kort beskrivelse av applikasjon (5–10 setninger):
